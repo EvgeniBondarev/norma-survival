@@ -28,6 +28,21 @@ jobs:
           mkdir -p site
           cp -R game site/game
           cp -R assets-webp site/assets-webp
+          cat > site/index.html <<'HTML'
+          <!doctype html>
+          <html lang="ru">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>НОРМА</title>
+            <meta http-equiv="refresh" content="0; url=game/">
+            <link rel="canonical" href="game/">
+            <style>body{background:#14161a;color:#d9dee2;font:18px/1.5 Georgia,serif;display:grid;place-items:center;min-height:100vh;margin:0}a{color:#8fb4c9}</style>
+          </head>
+          <body><p>Загрузка игры… <a href="game/">Открыть «НОРМА»</a></p></body>
+          </html>
+          HTML
+          touch site/.nojekyll
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload Pages artifact
