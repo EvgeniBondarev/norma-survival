@@ -1,0 +1,548 @@
+{
+ "idle-v0": {
+  "file": "s/idle-v0.webp",
+  "w": 64,
+  "h": 256
+ },
+ "idle-v1": {
+  "file": "s/idle-v1.webp",
+  "w": 90,
+  "h": 207
+ },
+ "idle-v2": {
+  "file": "s/idle-v2.webp",
+  "w": 101,
+  "h": 243
+ },
+ "idle-v3": {
+  "file": "s/idle-v3.webp",
+  "w": 119,
+  "h": 203
+ },
+ "idle-v4": {
+  "file": "s/idle-v4.webp",
+  "w": 92,
+  "h": 236
+ },
+ "pick-0": {
+  "file": "s/pick-0.webp",
+  "w": 134,
+  "h": 256
+ },
+ "pick-1": {
+  "file": "s/pick-1.webp",
+  "w": 199,
+  "h": 232
+ },
+ "pick-2": {
+  "file": "s/pick-2.webp",
+  "w": 189,
+  "h": 155
+ },
+ "pick-3": {
+  "file": "s/pick-3.webp",
+  "w": 150,
+  "h": 181
+ },
+ "shovel-0": {
+  "file": "s/shovel-0.webp",
+  "w": 173,
+  "h": 256
+ },
+ "shovel-1": {
+  "file": "s/shovel-1.webp",
+  "w": 268,
+  "h": 225
+ },
+ "shovel-2": {
+  "file": "s/shovel-2.webp",
+  "w": 244,
+  "h": 224
+ },
+ "shovel-3": {
+  "file": "s/shovel-3.webp",
+  "w": 269,
+  "h": 228
+ },
+ "shovel-4": {
+  "file": "s/shovel-4.webp",
+  "w": 277,
+  "h": 223
+ },
+ "shovel-5": {
+  "file": "s/shovel-5.webp",
+  "w": 278,
+  "h": 208
+ },
+ "shovel-6": {
+  "file": "s/shovel-6.webp",
+  "w": 278,
+  "h": 206
+ },
+ "shovel-7": {
+  "file": "s/shovel-7.webp",
+  "w": 278,
+  "h": 204
+ },
+ "roll-v0": {
+  "file": "s/roll-v0.webp",
+  "w": 106,
+  "h": 256
+ },
+ "roll-v1": {
+  "file": "s/roll-v1.webp",
+  "w": 104,
+  "h": 242
+ },
+ "roll-v2": {
+  "file": "s/roll-v2.webp",
+  "w": 98,
+  "h": 233
+ },
+ "roll-v3": {
+  "file": "s/roll-v3.webp",
+  "w": 87,
+  "h": 240
+ },
+ "roll-v4": {
+  "file": "s/roll-v4.webp",
+  "w": 127,
+  "h": 244
+ },
+ "eat-0": {
+  "file": "s/eat-0.webp",
+  "w": 192,
+  "h": 252
+ },
+ "eat-1": {
+  "file": "s/eat-1.webp",
+  "w": 194,
+  "h": 252
+ },
+ "eat-2": {
+  "file": "s/eat-2.webp",
+  "w": 196,
+  "h": 256
+ },
+ "eat-3": {
+  "file": "s/eat-3.webp",
+  "w": 195,
+  "h": 253
+ },
+ "sleep-v0": {
+  "file": "s/sleep-v0.webp",
+  "w": 385,
+  "h": 159
+ },
+ "sleep-v1": {
+  "file": "s/sleep-v1.webp",
+  "w": 420,
+  "h": 148
+ },
+ "sleep-v2": {
+  "file": "s/sleep-v2.webp",
+  "w": 412,
+  "h": 160
+ },
+ "sleep-v3": {
+  "file": "s/sleep-v3.webp",
+  "w": 417,
+  "h": 157
+ },
+ "stove-0": {
+  "file": "s/stove-0.webp",
+  "w": 201,
+  "h": 256
+ },
+ "stove-1": {
+  "file": "s/stove-1.webp",
+  "w": 176,
+  "h": 256
+ },
+ "stove-2": {
+  "file": "s/stove-2.webp",
+  "w": 216,
+  "h": 254
+ },
+ "sick-0": {
+  "file": "s/sick-0.webp",
+  "w": 83,
+  "h": 256
+ },
+ "sick-1": {
+  "file": "s/sick-1.webp",
+  "w": 171,
+  "h": 240
+ },
+ "sick-2": {
+  "file": "s/sick-2.webp",
+  "w": 169,
+  "h": 234
+ },
+ "sick-3": {
+  "file": "s/sick-3.webp",
+  "w": 202,
+  "h": 251
+ },
+ "sick-4": {
+  "file": "s/sick-4.webp",
+  "w": 239,
+  "h": 250
+ },
+ "sick-5": {
+  "file": "s/sick-5.webp",
+  "w": 250,
+  "h": 253
+ },
+ "dead-v0": {
+  "file": "s/dead-v0.webp",
+  "w": 347,
+  "h": 78
+ },
+ "dead-v1": {
+  "file": "s/dead-v1.webp",
+  "w": 214,
+  "h": 101
+ },
+ "dead-v2": {
+  "file": "s/dead-v2.webp",
+  "w": 332,
+  "h": 85
+ },
+ "dead-v3": {
+  "file": "s/dead-v3.webp",
+  "w": 154,
+  "h": 150
+ },
+ "criminal-stand": {
+  "file": "s/criminal-stand.webp",
+  "w": 75,
+  "h": 256
+ },
+ "criminal-walk": {
+  "file": "s/criminal-walk.webp",
+  "w": 159,
+  "h": 255
+ },
+ "criminal-c": {
+  "file": "s/criminal-c.webp",
+  "w": 173,
+  "h": 256
+ },
+ "criminal-d": {
+  "file": "s/criminal-d.webp",
+  "w": 184,
+  "h": 256
+ },
+ "informer-stand": {
+  "file": "s/informer-stand.webp",
+  "w": 90,
+  "h": 256
+ },
+ "informer-walk": {
+  "file": "s/informer-walk.webp",
+  "w": 207,
+  "h": 226
+ },
+ "informer-c": {
+  "file": "s/informer-c.webp",
+  "w": 162,
+  "h": 246
+ },
+ "informer-d": {
+  "file": "s/informer-d.webp",
+  "w": 217,
+  "h": 229
+ },
+ "medic-stand": {
+  "file": "s/medic-stand.webp",
+  "w": 100,
+  "h": 256
+ },
+ "medic-walk": {
+  "file": "s/medic-walk.webp",
+  "w": 168,
+  "h": 254
+ },
+ "medic-c": {
+  "file": "s/medic-c.webp",
+  "w": 182,
+  "h": 244
+ },
+ "medic-d": {
+  "file": "s/medic-d.webp",
+  "w": 186,
+  "h": 206
+ },
+ "cook-stand": {
+  "file": "s/cook-stand.webp",
+  "w": 100,
+  "h": 256
+ },
+ "cook-ladle": {
+  "file": "s/cook-ladle.webp",
+  "w": 171,
+  "h": 256
+ },
+ "cook-c": {
+  "file": "s/cook-c.webp",
+  "w": 175,
+  "h": 252
+ },
+ "cook-d": {
+  "file": "s/cook-d.webp",
+  "w": 180,
+  "h": 251
+ },
+ "boss-stand": {
+  "file": "s/boss-stand.webp",
+  "w": 82,
+  "h": 256
+ },
+ "boss-walk": {
+  "file": "s/boss-walk.webp",
+  "w": 149,
+  "h": 247
+ },
+ "boss-c": {
+  "file": "s/boss-c.webp",
+  "w": 164,
+  "h": 249
+ },
+ "boss-d": {
+  "file": "s/boss-d.webp",
+  "w": 178,
+  "h": 246
+ },
+ "stretcher-0": {
+  "file": "s/stretcher-0.webp",
+  "w": 309,
+  "h": 239
+ },
+ "stretcher-1": {
+  "file": "s/stretcher-1.webp",
+  "w": 354,
+  "h": 238
+ },
+ "stretcher-2": {
+  "file": "s/stretcher-2.webp",
+  "w": 334,
+  "h": 240
+ },
+ "stretcher-3": {
+  "file": "s/stretcher-3.webp",
+  "w": 359,
+  "h": 238
+ },
+ "item-herring": {
+  "file": "s/item-herring.webp",
+  "w": 128,
+  "h": 64
+ },
+ "item-soup": {
+  "file": "s/item-soup.webp",
+  "w": 128,
+  "h": 87
+ },
+ "item-wraps": {
+  "file": "s/item-wraps.webp",
+  "w": 128,
+  "h": 107
+ },
+ "item-mittens": {
+  "file": "s/item-mittens.webp",
+  "w": 128,
+  "h": 128
+ },
+ "item-photo": {
+  "file": "s/item-photo.webp",
+  "w": 117,
+  "h": 128
+ },
+ "item-ring": {
+  "file": "s/item-ring.webp",
+  "w": 128,
+  "h": 95
+ },
+ "item-needle": {
+  "file": "s/item-needle.webp",
+  "w": 128,
+  "h": 101
+ },
+ "item-letter": {
+  "file": "s/item-letter.webp",
+  "w": 128,
+  "h": 88
+ },
+ "item-matches": {
+  "file": "s/item-matches.webp",
+  "w": 128,
+  "h": 104
+ },
+ "item-pickaxe": {
+  "file": "s/item-pickaxe.webp",
+  "w": 128,
+  "h": 104
+ },
+ "item-shovel": {
+  "file": "s/item-shovel.webp",
+  "w": 128,
+  "h": 95
+ },
+ "item-saw": {
+  "file": "s/item-saw.webp",
+  "w": 128,
+  "h": 60
+ },
+ "item-axe": {
+  "file": "s/item-axe.webp",
+  "w": 128,
+  "h": 91
+ },
+ "item-firewood": {
+  "file": "s/item-firewood.webp",
+  "w": 128,
+  "h": 80
+ },
+ "item-sugar": {
+  "file": "s/item-sugar.webp",
+  "w": 128,
+  "h": 90
+ },
+ "item-undershirt": {
+  "file": "s/item-undershirt.webp",
+  "w": 123,
+  "h": 128
+ },
+ "item-opener": {
+  "file": "s/item-opener.webp",
+  "w": 128,
+  "h": 65
+ },
+ "item-rations": {
+  "file": "s/item-rations.webp",
+  "w": 128,
+  "h": 67
+ },
+ "item-bread": {
+  "file": "s/item-bread.webp",
+  "w": 128,
+  "h": 112
+ },
+ "item-bowl": {
+  "file": "s/item-bowl.webp",
+  "w": 128,
+  "h": 85
+ },
+ "item-spoon": {
+  "file": "s/item-spoon.webp",
+  "w": 128,
+  "h": 127
+ },
+ "item-felt-boots": {
+  "file": "s/item-felt-boots.webp",
+  "w": 126,
+  "h": 128
+ },
+ "item-mitten": {
+  "file": "s/item-mitten.webp",
+  "w": 83,
+  "h": 128
+ },
+ "item-tobacco": {
+  "file": "s/item-tobacco.webp",
+  "w": 128,
+  "h": 107
+ },
+ "item-rag": {
+  "file": "s/item-rag.webp",
+  "w": 128,
+  "h": 123
+ },
+ "item-mug": {
+  "file": "s/item-mug.webp",
+  "w": 128,
+  "h": 123
+ },
+ "item-blanket": {
+  "file": "s/item-blanket.webp",
+  "w": 128,
+  "h": 99
+ },
+ "icon-warmth": {
+  "file": "ui/icon-warmth.webp",
+  "w": 70,
+  "h": 96
+ },
+ "icon-hunger": {
+  "file": "ui/icon-hunger.webp",
+  "w": 96,
+  "h": 91
+ },
+ "icon-strength": {
+  "file": "ui/icon-strength.webp",
+  "w": 75,
+  "h": 96
+ },
+ "icon-health": {
+  "file": "ui/icon-health.webp",
+  "w": 72,
+  "h": 96
+ },
+ "icon-sanity": {
+  "file": "ui/icon-sanity.webp",
+  "w": 83,
+  "h": 96
+ },
+ "icon-frostbite": {
+  "file": "ui/icon-frostbite.webp",
+  "w": 59,
+  "h": 96
+ },
+ "icon-scurvy": {
+  "file": "ui/icon-scurvy.webp",
+  "w": 75,
+  "h": 96
+ },
+ "icon-typhus": {
+  "file": "ui/icon-typhus.webp",
+  "w": 76,
+  "h": 96
+ },
+ "btn-normal": {
+  "file": "ui/btn-normal.webp",
+  "w": 900,
+  "h": 385
+ },
+ "btn-hover": {
+  "file": "ui/btn-hover.webp",
+  "w": 900,
+  "h": 388
+ },
+ "btn-pressed": {
+  "file": "ui/btn-pressed.webp",
+  "w": 900,
+  "h": 392
+ },
+ "norm-frame": {
+  "file": "ui/norm-frame.webp",
+  "w": 1000,
+  "h": 130
+ },
+ "norm-fill": {
+  "file": "ui/norm-fill.webp",
+  "w": 1000,
+  "h": 75
+ },
+ "event-frame": {
+  "file": "ui/event-frame.webp",
+  "w": 1200,
+  "h": 653,
+  "slice": [
+   95,
+   97,
+   92,
+   98
+  ]
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "image": "prisoner-walk-right-256.webp",
+  "frameSize": { "w": 256, "h": 256 },
+  "directions": { "right": "native", "left": "mirrorX" },
+  "frames": [
+    { "name": "walk-00", "x": 0, "y": 0, "w": 256, "h": 256 },
+    { "name": "walk-01", "x": 256, "y": 0, "w": 256, "h": 256 },
+    { "name": "walk-02", "x": 512, "y": 0, "w": 256, "h": 256 },
+    { "name": "walk-03", "x": 768, "y": 0, "w": 256, "h": 256 },
+    { "name": "walk-04", "x": 0, "y": 256, "w": 256, "h": 256 },
+    { "name": "walk-05", "x": 256, "y": 256, "w": 256, "h": 256 },
+    { "name": "walk-06", "x": 512, "y": 256, "w": 256, "h": 256 },
+    { "name": "walk-07", "x": 768, "y": 256, "w": 256, "h": 256 }
+  ],
+  "animations": { "walk": ["walk-00", "walk-01", "walk-02", "walk-03", "walk-04", "walk-05", "walk-06", "walk-07"] }
+}

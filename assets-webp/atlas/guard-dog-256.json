@@ -1,0 +1,10 @@
+{
+  "image": "guard-dog-256.webp",
+  "frameSize": { "w": 256, "h": 256 },
+  "frames": [
+    { "name": "walk-right", "x": 0, "y": 0, "w": 256, "h": 256 },
+    { "name": "sit-right", "x": 256, "y": 0, "w": 256, "h": 256 },
+    { "name": "walk-left", "x": 0, "y": 256, "w": 256, "h": 256 },
+    { "name": "sit-left", "x": 256, "y": 256, "w": 256, "h": 256 }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "image": "guard-256.webp",
+  "frameSize": { "w": 256, "h": 256 },
+  "frames": [
+    { "name": "stand-right", "x": 0, "y": 0, "w": 256, "h": 256 },
+    { "name": "walk-right", "x": 256, "y": 0, "w": 256, "h": 256 },
+    { "name": "stand-left", "x": 0, "y": 256, "w": 256, "h": 256 },
+    { "name": "walk-left", "x": 256, "y": 256, "w": 256, "h": 256 }
+  ]
+}

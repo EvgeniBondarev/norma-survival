@@ -1,0 +1,16 @@
+{
+  "viewport": { "w": 1920, "h": 1080 },
+  "layers": [
+    { "image": "march-panorama-3840x1080.webp", "repeatX": true, "speed": 0.08, "z": 0 },
+    { "image": "march-mid-wire.webp", "repeatX": true, "speed": 0.28, "z": 20 },
+    { "image": "../overlays/falling-snow-transparent.webp", "repeatX": true, "speed": 0.62, "z": 80 }
+  ],
+  "actors": {
+    "atlas": "../atlas/prisoner-walk-right-256.webp",
+    "metadata": "../atlas/prisoner-walk-right-256.json",
+    "animation": "walk",
+    "mirrorForLeft": true,
+    "defaultScale": 0.46,
+    "z": 40
+  }
+}

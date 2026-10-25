@@ -1,0 +1,18 @@
+NORMA - CAMP SPRITE PACK - LICENSE
+
+You MAY:
+- Use these assets in personal and commercial projects (games, apps, videos, prints in your own products).
+- Modify, recolor, crop, slice and combine them to fit your project.
+- Use them in free and paid games, on any platform.
+
+You MAY NOT:
+- Redistribute, resell, sublicense or repackage the assets or the pack, even if the files are modified.
+- Use them to train or fine-tune machine learning models.
+- Present the assets as hand-made work. The pack contains AI-generated material (see README.txt).
+
+Credit is not required, but it is welcome: "Art: NORMA Camp Sprite Pack (EvgeniBondarev, itch.io)".
+
+The historical setting (Soviet forced-labour camps, 1940s) is depicted for storytelling purposes.
+The pack must not be used to glorify violence or to mock victims of political repression.
+
+The assets are provided "as is", without warranty of any kind.

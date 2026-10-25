@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "norma",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/Users/evgen/MyGame1/game/tools/serve.py", "8765"],
+      "port": 8765
+    },
+    {
+      "name": "itch-upload",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/Users/evgen/MyGame1/itch-release/serve_cors.py", "8777"],
+      "port": 8777
+    }
+  ]
+}

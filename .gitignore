@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Локальные серверные и редакторские файлы
+.vscode/
+.idea/
+
+# Экспортные пакеты для itch.io собираются отдельно и слишком велики для Git.
+itch-release/dist/
+itch-release/stage/
+itch-release/stage_webp/
+itch-release/stage_webp2/

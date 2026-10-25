@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Норма</title>
+<link rel="icon" href="../assets-webp/p3/06-favicon.webp">
+<link rel="stylesheet" href="style.css?v=1792891673">
+</head>
+<body>
+<!-- типографская краска: неровный край букв и пятна недокраса, как на дешёвой книжной бумаге -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <filter id="ink" x="-1%" y="-4%" width="102%" height="108%" color-interpolation-filters="sRGB">
+    <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="4" result="grain"/>
+    <feDisplacementMap in="SourceGraphic" in2="grain" scale="1.7" xChannelSelector="R" yChannelSelector="G" result="rough"/>
+    <feGaussianBlur in="rough" stdDeviation="0.32" result="soft"/>
+    <feComponentTransfer in="soft" result="bled"><feFuncA type="gamma" amplitude="1.25" exponent="1.55" offset="0"/></feComponentTransfer>
+    <feTurbulence type="fractalNoise" baseFrequency="0.07 0.35" numOctaves="3" seed="9" result="patch"/>
+    <feColorMatrix in="patch" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.55 0 0 0 0.62" result="mask"/>
+    <feComposite in="bled" in2="mask" operator="in"/>
+  </filter>
+</defs></svg>
+<div id="wrap">
+  <div id="stage">
+    <canvas id="cv" width="1920" height="1080"></canvas>
+    <div id="shade"></div>
+    <div id="hud"></div>
+    <div id="ui"></div>
+    <div id="fader"></div>
+    <div id="boot"><div class="b-in"><div class="b-t">НОРМА</div><div class="b-p"><i id="b-bar"></i></div><div class="b-s" id="b-s">Загрузка</div></div></div>
+  </div>
+</div>
+<script type="module" src="js/main.js?v=1792891673"></script>
+</body>
+</html>

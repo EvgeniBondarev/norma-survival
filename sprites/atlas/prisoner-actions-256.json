@@ -1,0 +1,14 @@
+{
+  "image": "prisoner-actions-256.webp",
+  "frameSize": { "w": 256, "h": 256 },
+  "frames": [
+    { "name": "stand", "x": 0, "y": 0, "w": 256, "h": 256 },
+    { "name": "walk-right-a", "x": 256, "y": 0, "w": 256, "h": 256 },
+    { "name": "walk-right-b", "x": 512, "y": 0, "w": 256, "h": 256 },
+    { "name": "dig", "x": 768, "y": 0, "w": 256, "h": 256 },
+    { "name": "carry-log", "x": 0, "y": 256, "w": 256, "h": 256 },
+    { "name": "wheelbarrow", "x": 256, "y": 256, "w": 256, "h": 256 },
+    { "name": "sit", "x": 512, "y": 256, "w": 256, "h": 256 },
+    { "name": "collapse", "x": 768, "y": 256, "w": 256, "h": 256 }
+  ]
+}
